@@ -1,9 +1,9 @@
 ## Olá, eu sou a Wanessa Gonçalves
 
 
-- 🔭 Hoje trabalho como Auxiliar de Escritório
-- 🌱 Estudando difernts  linguagens, como HTML, JavaScript e CSS
-- 😄 Pronouns: Ela/Dela
+- 🔭 Hoje trabalho como Auxiliar de Escritório.
+- 🌱 Estudando difernts  linguagens, como HTML, JavaScript e CSS.
+- 😄 Pronouns: Ela/Dela.
 
 <div>
  
