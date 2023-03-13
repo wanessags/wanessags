@@ -6,9 +6,7 @@
 - 😄 Pronouns: Ela/Dela
 
 <div>
- <a href="https://github.com/wanessags">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?wanessags=anuraghazra&hide=contribs,prs">
- <img height="180em" src="ithub-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"\>
+ 
  </div>
 
 <div style="display: inline_block"><br>
