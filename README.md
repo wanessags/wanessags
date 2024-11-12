@@ -1,6 +1,7 @@
 ## Olá, eu sou a Wanessa Gonçalves
 
 <p> Atualmente, sou estudante de Sistemas para Internet no Centro Universitário Senac e trabalho como Auxiliar de Escritório na empresa Alphageos Tecnologia Aplicada, onde desenvolvo habilidades de organização, comunicação e elaboração de relatórios. </p>
+<p> Embora minhas experiências profissionais não sejam diretamente em desenvolvimento de software, tenho me dedicado a projetos pessoais e acadêmicos para que eu possa aprimorar minhas habilidades técnicas, como o desenvolvimento de portfólio pessoal e criação de páginas web, que me permitiram melhorar minhas habilidades em front-end.  </p>
 <p> Pronomes: Ela/Dela. </p>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wanessags&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Wanessa G github stats" /> 
