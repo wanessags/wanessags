@@ -1,6 +1,8 @@
 ## Olá, eu sou a Wanessa Gonçalves
 <p> Estudante de Sistemas para Internet no Centro Universitário Senac, apaixonada por tecnologia, design e desenvolvimento web. Atualmente estou expandindo minhas habilidades em front-end e também explorando o universo do back-end.</p>
 
+<br> 
+
 <h2> 🧠 Habilidades Técnicas </h2> 
 <p> Linguagens: HTML5, CSS3, JavaScript, PHP, Python, SQL
 
