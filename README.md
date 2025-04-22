@@ -1,14 +1,13 @@
 ## Olá, eu sou a Wanessa Gonçalves
 
-<p> 🧠 Habilidades Técnicas
-Linguagens: HTML5, CSS3, JavaScript, PHP, Python, SQL
+<h2> 🧠 Habilidades Técnicas </h2> 
+<p> Linguagens: HTML5, CSS3, JavaScript, PHP, Python, SQL
 
 Design e Prototipação: Figma, Adobe Photoshop
 
 CMS: WordPress 
 
-Ferramentas: Git, GitHub, Pacote Office (nível intermediário)
-</p>
+Ferramentas: Git, GitHub, Pacote Office (nível intermediário) 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wanessags&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Wanessa G github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessags&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
