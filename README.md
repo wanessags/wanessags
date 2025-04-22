@@ -1,8 +1,14 @@
 ## Olá, eu sou a Wanessa Gonçalves
 
-<p> Desenvolvedora Front-end. :seedling: </p>
-<p> Curso Sistemas Para Internet no Centro Universitário Senac. :school_satchel: </p> 
-<p> Pronomes: Ela/Dela.  </p>
+<p> 🧠 Habilidades Técnicas
+Linguagens: HTML5, CSS3, JavaScript, PHP, Python, SQL
+
+Design e Prototipação: Figma, Adobe Photoshop
+
+CMS: WordPress 
+
+Ferramentas: Git, GitHub, Pacote Office (nível intermediário)
+</p>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wanessags&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Wanessa G github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanessags&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
