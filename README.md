@@ -3,7 +3,7 @@
 
 <br> 
 
-<h2> 🧠 Habilidades Técnicas </h2> 
+<h2> Habilidades Técnicas </h2> 
 <p> Linguagens: HTML5, CSS3, JavaScript, PHP, Python, SQL
 
 Design e Prototipação: Figma, Adobe Photoshop
